@@ -1,0 +1,4 @@
+rootProject.name = 'BetterForge'
+include 'testMod'
+include 'betterForge'
+
